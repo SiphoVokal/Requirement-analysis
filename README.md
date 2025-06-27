@@ -127,7 +127,8 @@ Use case diagrams show how different users (actors) interact with the system to 
 * Help in identifying and organizing system requirements.
 * Facilitate communication among stakeholders and development team.
 
-![Booking use case image ](https://drive.google.com/file/d/1mnhIeB_AsyVpswGolqwP9n-RZ-i8x9nV/view?usp=drive_link)
+![alx-booking-uc](https://github.com/user-attachments/assets/b2ff8422-ec4a-4184-a29f-68252e003ecd)
+
 
 ## Acceptance Criteria
 
